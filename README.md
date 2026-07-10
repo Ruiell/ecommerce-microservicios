@@ -68,6 +68,7 @@ Durante el desarrollo del proyecto se trabajó con las siguientes tecnologías:
 * JaCoCo
 * DataFaker
 * Postman
+* Aiven
 
 ---
 
