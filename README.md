@@ -13,7 +13,7 @@ desplegable en modo **local (Docker + Laragon)** y **remoto (Render + base de da
 
 ## Repositorio
 
-`https://github.com/TU_USUARIO/TU_REPOSITORIO` — reemplaza este link por el real una vez que subas el proyecto (ver sección GitHub más abajo).
+`https://github.com/Ruiell/ecommerce-microservicios` — reemplaza este link por el real una vez que subas el proyecto (ver sección GitHub más abajo).
 
 ---
 
