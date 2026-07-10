@@ -53,7 +53,7 @@ Este proyecto corresponde al trabajo final de la asignatura. El objetivo fue des
 
 Durante el desarrollo del proyecto se trabajó con las siguientes tecnologías:
 
-* Java 17
+* Java 21
 * Spring Boot
 * Spring Cloud
 * Eureka Server
